@@ -1,0 +1,6 @@
+framework module Pods_TwigFirebase {
+  umbrella header "Pods-TwigFirebase-umbrella.h"
+
+  export *
+  module * { export * }
+}

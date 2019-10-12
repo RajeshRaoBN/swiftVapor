@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>985601978237-fvv09o69shqnpcjpl1b35kvp0ie9ni6u.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.985601978237-fvv09o69shqnpcjpl1b35kvp0ie9ni6u</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAL7vP5rO64Lw2kAl4zS0MWBDPyPTeyhqs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>985601978237</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.rajeshnarayanarao.TwigFirebase</string>
+	<key>PROJECT_ID</key>
+	<string>twig-firebase</string>
+	<key>STORAGE_BUCKET</key>
+	<string>twig-firebase.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:985601978237:ios:1744bc5593ba349b586614</string>
+	<key>DATABASE_URL</key>
+	<string>https://twig-firebase.firebaseio.com</string>
+</dict>
+</plist>
